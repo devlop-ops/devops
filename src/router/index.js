@@ -11,7 +11,7 @@ export default new Router({
       name: 'HelloWorld',
       component: HelloWorld
     },
-    {path: '/login', component: Login, hidden: true },
-    {path: '/home', component: Home, hidden: true },
+    // {path: '/login', component: Login, hidden: true },
+    // {path: '/home', component: Home, hidden: true },
   ]
 })
